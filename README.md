@@ -1,4 +1,7 @@
 # Data-Analysis-Project
+
+This project was developed as part of my Masters course study in Statistics for Experiments in the field of Data Analysis.
+
 The purpose of this project is to examine whether stretching and wearing ankle weights would provide exercise benefits using treadmill based on energy consumption in number of calories.
 
 Software Used: SAS Programming, Microsoft Excel
