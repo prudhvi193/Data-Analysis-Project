@@ -9,3 +9,4 @@ Input Data Files: Treadmill Exercise.xls: This is a data file obtained from the 
 
 Output Data Files: These details are briefly explained in the report attached for the following project in the file named "STAT5023 Data Analysis Project".
 
+Image Files "a.jpg,b.jpg,c.jpg" shows the snapshots obtained after running the code in the SAS software tool.
